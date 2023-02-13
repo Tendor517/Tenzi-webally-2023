@@ -1,0 +1,100 @@
+/* navbar section */
+#brand-logo{
+    width: 50px;
+    border-radius: 100%;
+}
+.navbar-brand{
+    padding: 0 0 0 20px;
+}
+.nav-item{
+    padding: 0 18px;
+}
+/* about section */
+#about{
+    margin-top:10%;
+    margin-left: 5%;
+    padding-left:10px;
+}
+.about-image{
+    width: 290px;
+    margin-bottom: 30px;
+    margin-left:50px;
+}
+.download-button{
+    margin: 5% 3% 5% 0%;
+    color:white;
+}
+/* Course section */
+#course{
+    background-color:gold;
+}
+.course-card{
+    padding:4% 2.5%;
+    
+}
+.course-button{
+    display:block;
+    text-align:center
+}
+.card-img-top{
+    width: 358.67px;
+    height: 358.67px;
+}
+.card-title{
+    font-size:x-large;
+    font-weight: bold;
+    font-family: "Montserrat-Light",sans-serif;
+}
+/* Review Section */
+#review{
+    background-color:#FF9A8C;
+    color:#000;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.review-image{
+    width: 12%;
+    border-radius: 100%;
+    margin:20px;
+}
+.carousel-item{
+    margin: 5% 5%;
+}
+.review-text{
+    line-height: 1.5;
+    padding: 0px 250px;
+    margin-bottom: 20px;
+}
+/* Footer */
+#footer{
+    background-color:#F5EDCE;
+    padding:3% 0%;
+}
+.footers{
+    padding: 0% 1% 2% 1%;
+    position: relative;
+    margin-left: 15px;
+}
+
+.foot{
+    margin-left: 570px;
+}
+/* contact */
+.form{
+    margin-top: 5%;
+    margin-left:20%;
+}
+.address{
+    padding: 5% 30%;
+    margin-left: 40px;
+}
+h3{
+    font-size:50px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    padding: 5% 0% 0% 6%;
+    /* margin: 5% 0% 0% 6%; */  /*this creates gap inbetween two section*/
+}
+#contact{
+    background-color:#FFE1E1;
+}
